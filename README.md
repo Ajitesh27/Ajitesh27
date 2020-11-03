@@ -7,21 +7,43 @@ Please feel free to clone projects and raise issues if you think something could
 
 Happy Coding! 😊
 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Computer Science Engineering along with minors in Electronics from PES University,Bangalore.
+- ✍️ &nbsp; Specialisation in Machine Intelligence and Data Science
+
+
+### 👨‍💻 Languages and Tools
+
+<br />
+
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![Python](http://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=brightgreen)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL&logoColor=cyan)
+
+
+![Django](http://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=Django)
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
+![GCP](http://img.shields.io/badge/-R-000000?style=for-the-badge&logo=R&logoColor=blue)
+![React](http://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=orange)
+![Php](http://img.shields.io/badge/-Php-000000?style=for-the-badge&logo=Php&logoColor=white)
+![Spark](http://img.shields.io/badge/-Spark-000000?style=for-the-badge&logo=Apache-Spark&logoColor=yellow)
+
 
 ![Ajitesh's github stats](https://github-readme-stats.vercel.app/api?username=Ajitesh27&show_icons=true&theme=tokyonight&hide=issues)
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
 
-
-<!--
-**Ajitesh27/Ajitesh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+ <a href="https://www.linkedin.com/in/ajiteshnair" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/_ajitesh27" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:ajiteshnair@gmail.com"><img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=red&labelColor=yellow&color=yellow" alt="Gmail"></a>
+ 
+  </p>

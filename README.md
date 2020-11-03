@@ -10,8 +10,8 @@ Happy Coding! 😊
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science Engineering along with minors in Electronics from PES University,Bangalore.
-- ✍️ &nbsp; Specialisation in Machine Intelligence and Data Science
+- 🎓 &nbsp; Studying Computer Science Engineering along with minors in Electronics from PES University, Bangalore.
+- ✍️ &nbsp; Specialisation in Machine Intelligence and Data Science.
 
 
 ### 👨‍💻 Languages and Tools
@@ -36,8 +36,9 @@ Happy Coding! 😊
 ![Php](http://img.shields.io/badge/-Php-000000?style=for-the-badge&logo=Php&logoColor=white)
 ![Spark](http://img.shields.io/badge/-Spark-000000?style=for-the-badge&logo=Apache-Spark&logoColor=yellow)
 
-
+<br>
 ![Ajitesh's github stats](https://github-readme-stats.vercel.app/api?username=Ajitesh27&show_icons=true&theme=tokyonight&hide=issues)
+<br>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 

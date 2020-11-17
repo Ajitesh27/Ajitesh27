@@ -27,6 +27,10 @@ Happy Coding! 😊
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL&logoColor=cyan)
 
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+
+
+
 
 ![Django](http://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=Django)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
@@ -35,6 +39,7 @@ Happy Coding! 😊
 ![React](http://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=orange)
 ![Php](http://img.shields.io/badge/-Php-000000?style=for-the-badge&logo=Php&logoColor=white)
 ![Spark](http://img.shields.io/badge/-Spark-000000?style=for-the-badge&logo=Apache-Spark&logoColor=yellow)
+
 
 
 

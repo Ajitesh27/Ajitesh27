@@ -45,6 +45,7 @@ Happy Coding! 😊
 
 ![Ajitesh's github stats](https://github-readme-stats.vercel.app/api?username=Ajitesh27&show_icons=true&theme=tokyonight&hide=issues)
 <p align="center">
+  </br>
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">

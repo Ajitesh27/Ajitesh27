@@ -43,7 +43,7 @@ Happy Coding! 😊
 
 
 
-![Ajitesh's github stats](https://github-readme-stats.vercel.app/api?username=Ajitesh27&show_icons=true&theme=tokyonight&hide=issues)
+![Ajitesh's github stats](https://github-readme-stats.vercel.app/api?username=Ajitesh27&show_icons=true&theme=tokyonight&hide=contribs,issues&include_all_commits=true)
 <p align="center">
   </br>
   <i>Let's connect and chat! Open to anything under the sun</i>

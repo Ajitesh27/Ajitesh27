@@ -10,7 +10,7 @@ Happy Coding! 😊
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science Engineering along with minors in Electronics from PES University, Bangalore.
+- 🎓 &nbsp; Bachelors in Computer Science Engineering along with minors in Electronics from PES University, Bangalore.
 - ✍️ &nbsp; Specialisation in Machine Intelligence and Data Science.
 
 

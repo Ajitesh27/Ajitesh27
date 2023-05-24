@@ -1,6 +1,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&width=900&height=40&lines=If+debugging+is+the+process+of+removing+bugs,;then+programming+must+be+the+process+of+putting+them+in.;It+works,+but+I+don’t+know+why.;Walking+on+water+and+developing+software+from;a+specification+are+easy+if+both+are+frozen.;It’s+not+a+bug+—+it’s+an+undocumented+feature.;It+works+on+my+machine.">
+
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
@@ -43,7 +45,7 @@ Happy Coding! 😊
 
 
 
-![Ajitesh's github stats](https://github-readme-stats.vercel.app/api?username=Ajitesh27&show_icons=true&theme=tokyonight&hide=contribs,issues&include_all_commits=true)
+![Ajitesh's github stats](https://github-readme-stats.vercel.app/api?username=ajitesh27&show_icons=true&theme=tokyonight&hide=contribs,issues&include_all_commits=true)
 <p align="center">
   </br>
   <i>Let's connect and chat! Open to anything under the sun</i>
@@ -54,3 +56,10 @@ Happy Coding! 😊
 <a href="mailto:ajiteshnair@gmail.com"><img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=red&labelColor=yellow&color=yellow" alt="Gmail"></a>
  
   </p>
+  
+  
+  <!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>

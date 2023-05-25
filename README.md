@@ -45,16 +45,16 @@ Happy Coding! 😊
 
 
 
-![Ajitesh's github stats](https://github-readme-stats.vercel.app/api?username=ajitesh27&show_icons=true&theme=tokyonight&hide=contribs,issues&include_all_commits=true)
+![Ajitesh's github stats](https://github-readme-stats.vercel.app/api?username=Ajitesh27&show_icons=true&theme=tokyonight&hide=contribs,issues&include_all_commits=true)
 <p align="center">
   </br>
   <i>Let's connect and chat! Open to anything under the sun</i>
+ </p>
 
   <p align="center">
- <a href="https://www.linkedin.com/in/ajiteshnair" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/_ajitesh27" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:ajiteshnair@gmail.com"><img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=red&labelColor=yellow&color=yellow" alt="Gmail"></a>
- 
+<a href="mailto:ajiteshnair@gmail.com"><img src="https://img.shields.io/badge/-ajiteshnair@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/ajiteshnair"><img src="https://img.shields.io/badge/-Ajitesh%20Nair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/_ajitesh27"><img src="https://img.shields.io/badge/-@_ajitesh27-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   </p>
   
   

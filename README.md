@@ -45,7 +45,7 @@ Happy Coding! 😊
 
 
 
-![Ajitesh's github stats](https://github-readme-stats.vercel.app/api?username=Ajitesh27&show_icons=true&theme=tokyonight&hide=contribs,issues&include_all_commits=true&hide_rank=true)
+![Ajitesh's github stats](https://github-readme-stats.vercel.app/api?username=Ajitesh27&&include_all_commits=true&show_icons=true&theme=tokyonight&hide=contribs,issues&include_all_commits=true&hide_rank=true)
 <p align="center">
   </br>
   <i>Let's connect and chat! Open to anything under the sun</i>

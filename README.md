@@ -50,12 +50,24 @@ Happy Coding! 😊
   </br>
   <i>Let's connect and chat! Open to anything under the sun</i>
  </p>
+<p align="center">
+ <a href="mailto:ajiteshnair@gmail.com" target="_blank">
+    <img align="center" alt="ajiteshnair@gmail.com | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+ <a href="https://www.linkedin.com/in/ajiteshnair" target="_blank">
+    <img align="center" alt="ajiteshnair | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  
+  <a href="https://instagram.com/_ajitesh27" target="_blank">
+    <img align="center" alt="_ajitesh27 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
 
-  <p align="center">
-<a href="mailto:ajiteshnair@gmail.com"><img src="https://img.shields.io/badge/-ajiteshnair@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/ajiteshnair"><img src="https://img.shields.io/badge/-Ajitesh%20Nair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/_ajitesh27"><img src="https://img.shields.io/badge/-@_ajitesh27-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  </p>
+<p> 
+
+ 
   
   
   <!--- snake -->

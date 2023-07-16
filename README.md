@@ -63,6 +63,10 @@ Happy Coding! 😊
   <a href="https://instagram.com/_ajitesh27" target="_blank">
     <img align="center" alt="_ajitesh27 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
+
+   <a href="https://www.cloudskillsboost.google/public_profiles/1732a518-e3e6-4853-b802-62cdcc0078bf" target="_blank">
+    <img align="center" alt="Ajitesh Nair | Google Cloud" width="24px" src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/gcp.png" />
+  </a> &nbsp;&nbsp;
   
 
 <p> 

@@ -69,6 +69,10 @@ Happy Coding! 😊
    <a href="https://www.cloudskillsboost.google/public_profiles/1732a518-e3e6-4853-b802-62cdcc0078bf" target="_blank">
     <img align="center" alt="Ajitesh Nair | Google Cloud" width="24px" src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/gcp.png" />
   </a> &nbsp;&nbsp;
+
+  <a href="https://www.goodreads.com/user/show/168180722-ajitesh-nair" target="_blank">
+    <img align="center" alt="Ajitesh Nair | Good Reads" width="100px" src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" />
+  </a> &nbsp;&nbsp;
   
 
 <p> 

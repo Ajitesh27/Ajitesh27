@@ -9,12 +9,15 @@ Please feel free to clone projects and raise issues if you think something could
 
 Happy Coding! 😊
 
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Masters in Computer Science from the University of Illinois Urbana-Champaign
 - 🎓 &nbsp; Bachelors in Computer Science Engineering along with minors in Electronics from PES University, Bangalore.
 - ✍️ &nbsp; Specialisation in Machine Intelligence and Data Science.
 
+<img width="100%" opacity="50%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ### 👨‍💻 Languages and Tools
 
@@ -82,7 +85,7 @@ Happy Coding! 😊
   
   <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 

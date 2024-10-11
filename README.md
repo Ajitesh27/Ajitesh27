@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-
+test rejection
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23DFC6B4&size=25&width=900&height=40&lines=If+debugging+is+the+process+of+removing+bugs,;then+programming+must+be+the+process+of+putting+them+in.;It+works,+but+I+don’t+know+why.;Walking+on+water+and+developing+software+from;a+specification+are+easy+if+both+are+frozen.;It’s+not+a+bug+—+it’s+an+undocumented+feature.;It+works+on+my+machine.">
 
 

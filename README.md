@@ -80,7 +80,7 @@ Happy Coding! 😊
 
 <p> 
 <p align = "center">
- <a href="https://www.ajiteshnair.wiki"">
+ <a href="http://www.ajiteshnair.me"">
    <b>My Website!!!</b>
  </a></p>
 
